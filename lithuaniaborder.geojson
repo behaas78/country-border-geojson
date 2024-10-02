@@ -1,11 +1,9 @@
  {
-    "type": "FeatureCollection",
+    ""type": "FeatureCollection",
+    "generator": "Andryuha",
     "features": [
         {
             "type": "Feature",
-            "properties": {},
-            "geometry": {
-                "type": "LineString",
                 "coordinates": [          
            
             
