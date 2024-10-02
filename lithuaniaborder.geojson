@@ -1,15 +1,19 @@
 {
     "type": "FeatureCollection",
+    "generator": "Andryuha",
     "features": [
         {
             "type": "Feature",
-            "properties": {},
+            "properties": {
+                "name:nah": "Belarus"
+            },
             "geometry": {
-                "type": "Polygon",
+                "type": "MultiPolygon",
                 "coordinates": [
-				
-		             
-           
+                    [
+                        [
+
+                         
             [
               24.1515027,
               56.2532967
@@ -198083,21 +198087,23 @@
               24.1546873,
               56.2537653
             ],
-            [24.1515027,56.2532967],
+            [24.1515027,56.2532967]
 			
 			
 			
-		              [24.1515027,56.2532967]
+		          
+
             
-               ]
+            
+            
+
+          
+
+
+                        ]
+                    ]
+                ]
             }
         }
     ]
-}   
-
-            
-            
-            
-
-            
-           
+}
