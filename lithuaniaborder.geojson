@@ -1,11 +1,21 @@
  {
-    ""type": "FeatureCollection",
+    "type": "FeatureCollection",
     "generator": "Andryuha",
     "features": [
         {
             "type": "Feature",
-                "coordinates": [          
-           
+            "properties": {
+            "name:nah": "Lithuania",	 
+                
+			},
+            "geometry": {
+            "type": "MultiPolygon",
+                	
+				
+				
+		    "coordinates": [          
+            [
+                [
             
             [
               24.1515027,
@@ -198087,9 +198097,10 @@
 			[
               24.1515027,
               56.2532967
-            ]
-			
-			         ]
+            
+                        ]
+                    ]
+                ]
             }
         }
     ]
